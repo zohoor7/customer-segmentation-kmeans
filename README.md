@@ -45,7 +45,8 @@ The algorithm automatically detects patterns and assigns each customer to one of
 
 📈 Visualization
 The following chart shows:
-https://www2.0zz0.com/2025/08/03/13/743888741.jpg
+
+[url=https://www.0zz0.com][img]https://www2.0zz0.com/2025/08/03/13/743888741.jpg[/img][/url]
 
 Each customer as a colored point
 
