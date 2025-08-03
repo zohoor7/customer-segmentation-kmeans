@@ -45,11 +45,13 @@ The algorithm automatically detects patterns and assigns each customer to one of
 
 📈 Visualization
 The following chart shows:
-https://www2.0zz0.com/2025/08/03/13/743888741.jpg
 
 Each customer as a colored point
 
 Cluster centers as red ❌ markers
+
+
+https://www2.0zz0.com/2025/08/03/13/743888741.jpg
 
 🔁 How to Run the Code
 📥 Clone the repository:
