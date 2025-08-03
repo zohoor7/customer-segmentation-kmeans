@@ -37,36 +37,3 @@ Example data:
 ```python
 [15, 39], [16, 81], [17, 6], [18, 77], [19, 40], ...
 
-## 🧮 K-Means Clustering
-
-We used `k=3` clusters to group customers into 3 segments.  
-The algorithm automatically detects patterns and assigns each customer to one of the clusters.
-
----
-
-## 📈 Visualization
-
-The following chart shows:
-- Each customer as a colored point
-- Cluster centers as red ❌ markers
-
-##🧠 Output Example
-
-Cluster Centers (Annual Income, Spending Score):
-Cluster 1: Income = 21.43, Spending Score = 60.43
-Cluster 2: Income = 87.50, Spending Score = 75.00
-Cluster 3: Income = 83.33, Spending Score = 25.00
-
-##Zohoor Awaji
-Marketing Specialist & AI Learner
-🌐 [LinkedIn](https://www.linkedin.com/in/zohoor-awaji/)
-
-##⭐️ If you liked this project, don’t forget to star the repo!
-yaml
-
-
-نسخ
-تحرير
-
-نسخ
-تحرير
