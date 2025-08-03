@@ -80,7 +80,9 @@ Cluster 3: Income = 83.33, Spending Score = 25.00
 
 📌 Author
 Zohoor Awaji
+
 Marketing Specialist & AI Learner
+
 🌐 LinkedIn https://www.linkedin.com/in/zohoor-awaji/
 
 ⭐️ If you liked this project, don’t forget to star the repo!
