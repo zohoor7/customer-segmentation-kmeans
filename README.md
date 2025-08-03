@@ -56,12 +56,18 @@ https://www2.0zz0.com/2025/08/03/13/743888741.jpg
 🔁 How to Run the Code
 📥 Clone the repository:
 
-git clone https://github.com/zohoor7/customer-segmentation-kmeans.git
+git clone 
+
+https://github.com/zohoor7/customer-segmentation-kmeans.git
 
 📦 Install the required libraries:
+
+
 pip install numpy matplotlib scikit-learn
 
 ▶️ Run the script:
+
+
 python kmeans_segmentation.py
 
 🧠 Output Example
